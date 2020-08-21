@@ -14,8 +14,8 @@
 
 
 ### Tools :fire:
-|<img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/gcp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/dockernew.svg" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/aws.png" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/gcp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/dockernew.svg" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/aws.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/PyCharm_Logo.svg" width=60> |
+|:---:|:---:|:---:| :---:|
 
 ### Connect with me :smiley:
 <a href="https://twitter.com/debaelopedev">
