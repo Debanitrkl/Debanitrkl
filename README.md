@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://coderjojo.github.io/">Debabrata</a> currently a Third Year BME student at <a href="http://www.viit.ac.in/">@NITR :school: </a> and aspiring software developer:computer:. Interested in working on cloud, API's, machine learning and currently learning about software development and improving my skills in Natural Language Processing and Image Processing. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently a Third Year BME student at <a href="https://www.nitrkl.ac.in/">@NITR :school: </a> and aspiring biomedical researcher:scientiest: and software developer:computer:. Interested in working on cloud, API's, machine learning and currently learning about software development and improving my skills in Natural Language Processing and Image Processing. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
@@ -43,7 +43,7 @@
 
 
 
-<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Debanitrkl/Debanitrkl) -->
 
-![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg)
+![ViewCount](https://views.whatilearened.today/views/github/Debanitrkl/views.svg)
 
