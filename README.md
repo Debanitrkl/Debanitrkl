@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently a Third Year BME student at <a href="https://www.nitrkl.ac.in/">@NITR :school: </a> and aspiring biomedical researcher:scientiest: and software developer:computer:. Interested in working on cloud, API's, machine learning and currently learning about software development and improving my skills in Natural Language Processing and Image Processing. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently a Third Year BME student at <a href="https://www.nitrkl.ac.in/">@NITR :school: </a> and aspiring biomedical researcher:doctor: and software developer:computer:. Interested in working on cloud, API's, machine learning and currently learning about software development and improving my skills in Natural Language Processing and Image Processing. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
@@ -37,7 +37,7 @@
   <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
 <p align="center">
-<a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" />
+<a target="_blank" href="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zg2ewxzwg6ot5qad7cuwq7i6i&cover_image=true)](https://github.com/kittinan/spotify-github-profile)" />
 </p>
 <br/><br/>
 
