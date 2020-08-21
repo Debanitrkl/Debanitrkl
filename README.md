@@ -37,7 +37,10 @@
   <img align="left" alt="Vedant Jajoo Medium" width="21px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/1147d199a35293b391152ee85e2d30988439157f/svgs/brands/quora.svg" />
 </a><br/><br/>
 <p align="center">
-<a target="_blank" href="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=316zg2ewxzwg6ot5qad7cuwq7i6i&cover_image=true)](https://github.com/kittinan/spotify-github-profile)" />
+<a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width = "235px"
+src="https://spotify-github-profile.vercel.app/api/view?uid=316zg2ewxzwg6ot5qad7cuwq7i6i&cover_image=false" />
+                         
+                         
 </p>
 <br/><br/>
 
