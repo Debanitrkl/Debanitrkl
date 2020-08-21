@@ -9,8 +9,8 @@
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/p5.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
-|:---:|:---:|:---:|
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/p5.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> | <img src ="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/R_logo.svg" width =60>
+|:---:|:---:|:---:|:---:|
 
 
 ### Tools :fire:
