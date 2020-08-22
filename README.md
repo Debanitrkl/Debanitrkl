@@ -46,8 +46,10 @@
 <a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width = "235px"
 src="https://spotify-github-profile.vercel.app/api/view?uid=316zg2ewxzwg6ot5qad7cuwq7i6i&cover_image=false" />
 
-|<a href="https://github.com/Debanitrkl/Debanitrkl">Hit a star </a>|<img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif">|
-| ------------- | ------------- |                         
+|<div><br><br>Hit a star<br><a href="https://github.com/Debanitrkl/Debanitrkl">|<img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>|
+| ------------- | ------------- |                  
+
+
                          
 </p>
 <br/><br/>
