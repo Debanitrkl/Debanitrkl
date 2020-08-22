@@ -8,6 +8,12 @@
   </samp>
 </p>
 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Debanitrkl&show_icons=true&theme=radical&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Debanitrkl&hide=css,html&theme=tokyonight&layout=compact">
+</p>
+
+
 ### Programming Languages  :rocket:
 |<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/p5.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/python.svg" width=60> | <img src ="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/R_logo.svg" width =60>
 |:---:|:---:|:---:|:---:|
