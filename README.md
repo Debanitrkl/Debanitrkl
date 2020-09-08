@@ -28,7 +28,7 @@
 |<img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/gcp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/dockernew.svg" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/aws.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/PyCharm_Logo.svg" width=60> |
 |:---:|:---:|:---:|:---:|
 
-### Connect with me :smiley:
+### Let's Connect :smiley:
 <a href="https://twitter.com/debaelopedev">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
