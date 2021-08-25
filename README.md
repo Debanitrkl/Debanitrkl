@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently a senior UG., BME at <a href="https://www.nitrkl.ac.in/">@NITR :school: </a>, an aspiring software developer:computer:. Interested in working on cloud, API's, machine learning and currently learning about container tools, distributed systems and cloud native engineering. Occasionally, I do participate in Hackathons :bulb: and I have a love and hate relationship with Programming :neutral_face:
+    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently a senior UG., BME at <a href="https://www.nitrkl.ac.in/">@NITR :school: </a>, an aspiring software developer:computer:. Interested in working on cloud native technologies, currently learning about container tools, distributed systems and cloud native chaos engineering. Occasionally, I do participate in Hackathons :bulb: and I have a love and hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
