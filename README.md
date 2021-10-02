@@ -14,19 +14,6 @@
 </p>
 
 
-### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/p5.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/python.svg" width=60> | <img src ="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/R_logo.svg" width =60>
-|:---:|:---:|:---:|:---:|
-
-
-### Machine Learning  
-|<img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/PyTorch_logo_icon.svg" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/TensorFlowLogo.svg" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/Scikit_learn_logo_small.svg" width=60> | 
-|:---:|:---:|:---:|
-
-
-### Tools :fire:
-|<img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/gcp.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/dockernew.svg" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/aws.png" width=60> | <img src="https://github.com/Debanitrkl/Debanitrkl/blob/master/imggit/PyCharm_Logo.svg" width=60> |
-|:---:|:---:|:---:|:---:|
 
 ### Let's Connect :smiley:
 <a href="https://twitter.com/debaelopedev">
