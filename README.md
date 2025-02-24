@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently a Software Engineer, at <a href="https://harness.io/">@Harness :school: </a>, working along with opensource developer communities for improving the CI/CD. With keen interest on cloud native technologies, currently learning about container tools, distributed file systems and cloud native chaos engineering. Occasionally, I do participate in Hackathons :bulb: and I have a love and hate relationship with Programming :neutral_face:
+    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently building <a href="https://www.parseable.com/">@Parseable :school: </a>, working along with opensource developer communities for making logging simpler. With keen interest on cloud native technologies, currently learning about container tools, distributed file systems and cloud native chaos engineering. Occasionally, I do participate in Hackathons :bulb: and I have a love and hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
