@@ -4,7 +4,10 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a> currently building <a href="https://www.parseable.com/">@Parseable :school: </a>, working along with opensource developer communities for making logging simpler. With keen interest on cloud native technologies, currently learning about container tools, distributed file systems and cloud native chaos engineering. Occasionally, I do participate in Hackathons :bulb: and I have a love and hate relationship with Programming :neutral_face:
+I’m <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a>—currently building <a href="https://www.parseable.com/">@Parseable :school:</a>, and jamming with open-source dev communities to craft the next-gen observability stack.
+  • Digging deep into telemetry pipelines, wrangling high-cardinality data, and experimenting with columnar storage formats on S3.
+  • Keen on all things cloud-native: containers, distributed file systems, and a dash of chaos engineering.
+  • Occasional Hackathon sprinter :bulb: with an on-again/off-again romance with programming :neutral_face:
   </samp>
 </p>
 
