@@ -8,29 +8,20 @@ I’m <a href="https://www.linkedin.com/in/debanitr/">Debabrata</a>, currently b
   </samp>
 </p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Debanitrkl&show_icons=true&theme=radical&layout=compact">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Debanitrkl&hide=css,html&theme=tokyonight&layout=compact">
-</p>
 
 
 
 
-<p align="center">
-<a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width = "235px"
-src="https://spotify-github-profile.vercel.app/api/view?uid=316zg2ewxzwg6ot5qad7cuwq7i6i&cover_image=false" />
 
-|<a href="https://github.com/Debanitrkl/Debanitrkl"> Hit a Star </a>|<img height="100" src="https://github.com/harshalrj25/MasterAssetsRepo/blob/master/mario.gif"></a></div>|
-| ------------- | ------------- |                  
+## :hammer_and_wrench: Weekend Hacks
 
+A running list of things I build on weekends — small experiments, hackathon sprints, and the occasional work-in-progress.
 
-                         
-</p>
-<br/><br/>
-
-
-
-<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Debanitrkl/Debanitrkl) -->
-
-![ViewCount](https://views.whatilearened.today/views/github/Debanitrkl/views.svg)
-
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [medfence](https://github.com/Debanitrkl/medfence) | A deterministic, fail-closed verification harness that fact-checks clinical LLM outputs. Grounds every extracted value to a source span, validates drugs against a versioned reference bundle, and returns PASS / FAIL / ABSTAIN with machine-checkable evidence. Flags, never fixes. | Python, property-based + metamorphic testing, Apache-2.0 |
+| [bike-analyzer](https://github.com/Debanitrkl/bike-analyzer) | BikeDoc — grounded RAG troubleshooting for any Indian bike. Drop in a service manual, then chat with citations, voice, and image diagnosis. Hinglish code-switch loop (STT to LLM to TTS) built on Sarvam. | FastAPI, Next.js, Qdrant, Sarvam-M |
+| [technical-writing-automation](https://github.com/Debanitrkl/technical-writing-automation) | A drop-in toolkit of agent skills and workflows for Claude Code / Codex — editorial review, SEO/AEO, slop-stripping, and concision passes to keep technical writing at a high bar. | Markdown agent skills, no code required |
+| [weekend-escapade](https://github.com/Debanitrkl/weekend-escapade) | A playful, scroll-driven Kerala trip invitation site with a silicon/semiconductor theme and a road-trip animation. | HTML, CSS, JavaScript, GitHub Pages |
+| [elixir-doc-bot](https://github.com/Debanitrkl/elixir-doc-bot) | AI-powered WhatsApp medical consultation framework. Patients chat in any of 22 Indian languages via voice or text; doctors review everything in English on a WordPress dashboard. | Next.js, Postgres, GPT-4o, Bhashini, WordPress |
+| [rail-app](https://github.com/Debanitrkl/rail-app) | :construction: **Work in progress** — a premium Indian Railways tracker. Native SwiftUI iOS app with MapKit live tracking, a NestJS API, PostgreSQL, a Go ingestion worker, and Docker Compose orchestration. | SwiftUI, NestJS, PostgreSQL, Go |
